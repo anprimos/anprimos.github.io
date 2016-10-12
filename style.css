@@ -1,0 +1,8 @@
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+p {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
