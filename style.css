@@ -2,6 +2,7 @@ body {
     color: green;
     font-size: 20px;
     text-align: center;
+	background-image: url("http://www.psdgraphics.com/file/squares-background.jpg");
 }
 
 
@@ -11,8 +12,5 @@ body {
 font-size: 16px;
 color: red; 
 }
-body {
-	
-    background-image: url("http://www.psdgraphics.com/file/squares-background.jpg");
-}
+
 
