@@ -3,6 +3,19 @@ p {
     font-size: 20px;
     text-align: center;
 }
+
+h1 {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
+h4 {
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
+
 #first-paragraph {
 	font-family: Comic Sans MS;		
 font-size: 16px;
